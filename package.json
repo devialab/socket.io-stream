@@ -3,7 +3,7 @@
   "version": "0.9.1",
   "description": "stream for socket.io",
   "author": "Naoyuki Kanezawa <naoyuki.kanezawa@gmail.com>",
-  "main": "./dist/index.js",
+  "main": "./socket.io-stream.js",
   "contributors": [
     {
       "name": "Naoyuki Kanezawa",
